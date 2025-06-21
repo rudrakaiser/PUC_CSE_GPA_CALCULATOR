@@ -36,7 +36,7 @@ A web-based CGPA calculator designed for the **Computer Science and Engineering 
 
 - ### Process 1
 
-   - **[Click Here](https://rudrakaiser.github.io/PUC_CSE_GPA_Calculator/)** and go to the live site.
+   - **[Click Here](https://rudrakaiser.github.io/PUC_CSE_GPA_CALCULATOR/)** and go to the live site.
 
 - ### Process 2
 
