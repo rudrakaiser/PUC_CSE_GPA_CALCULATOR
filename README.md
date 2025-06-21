@@ -36,13 +36,13 @@ A web-based CGPA calculator designed for the **Computer Science and Engineering 
 
 - ### Process 1
 
-   - **[Click Here](https://rudra-404.github.io/PUC_CSE_CGPA_Calculator/)** and go to the live site.
+   - **[Click Here](https://rudrakaiser.github.io/PUC_CSE_CGPA_Calculator/)** and go to the live site.
 
 - ### Process 2
 
    1. Clone the repository:
       ```bash
-      git clone https://github.com/rudra-404/PUC_CSE_CGPA_Calculator.git
+      git clone https://github.com/rudrakaiser/PUC_CSE_CGPA_Calculator.git
       ```
    2. Open `index.html` in your browser.
    3. Select your semester.
@@ -59,7 +59,7 @@ The app uses the standard university grading system to convert marks into grade 
 
 ## ✨ Developer
 
-Made with ❤️ by [Rudra Kaiser](https://github.com/rudra-404)
+Made with ❤️ by [Rudra Kaiser](https://github.com/rudrakaiser)
 
 ---
 
