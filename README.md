@@ -44,7 +44,7 @@ A web-based CGPA calculator designed for the **Computer Science and Engineering 
       ```bash
       git clone https://github.com/rudrakaiser/PUC_CSE_CGPA_Calculator.git
       ```
-   2. Open `index.html` in your browser.
+   2. Open `index.html` in your browser. 
    3. Select your semester.
    4. Enter your marks for each course.
    5. Click on **Calculate** to get your CGPA!
