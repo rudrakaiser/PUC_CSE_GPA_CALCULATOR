@@ -1,14 +1,14 @@
-# 📊 PUC CSE CGPA Calculator
+# 📊 PUC CSE GPA Calculator
 
-A web-based CGPA calculator designed for the **Computer Science and Engineering Department** of **[Premier University, Chittagong (PUC)](https://cse.puc.ac.bd/)**. This tool allows students to quickly calculate their CGPA semester by semester with ease and accuracy.
+A web-based GPA calculator designed for the **Computer Science and Engineering Department** of **[Premier University, Chittagong (PUC)](https://cse.puc.ac.bd/)**. This tool allows students to quickly calculate their GPA semester by semester with ease and accuracy.
 
 ---
 
 ## 🚀 Features
 
-- 🧮 Calculate CGPA for all 8 semesters
+- 🧮 Calculate GPA for all 8 semesters
 - 📚 Pre-loaded with subjects and credit values for each semester
-- 🔢 Enter your marks (0–100), and it calculates GPA per subject and overall CGPA
+- 🔢 Enter your marks (0–100), and it calculates GPA per subject and overall GPA
 - 🎨 Clean and responsive UI
 - ⚡ Fast and lightweight
 
@@ -19,8 +19,8 @@ A web-based CGPA calculator designed for the **Computer Science and Engineering 
 ### 🎯 Semester Selection Page
 <img src="assets/sem_page.jpg" height="250px" alt="Semester SelectionSemester Selection">
 
-### 📘 1st Semester CGPA Calculator
-<img src="assets/cgpa_cal_page.png" height="325px" alt="1st Semester CGPA Page">
+### 📘 1st Semester GPA Calculator
+<img src="assets/cgpa_cal_page.png" height="325px" alt="1st Semester GPA Page">
 
 ---
 
@@ -42,18 +42,18 @@ A web-based CGPA calculator designed for the **Computer Science and Engineering 
 
    1. Clone the repository:
       ```bash
-      git clone https://github.com/rudrakaiser/PUC_CSE_CGPA_Calculator.git
+      git clone https://github.com/rudrakaiser/PUC_CSE_GPA_Calculator.git
       ```
    2. Open `index.html` in your browser. 
    3. Select your semester.
    4. Enter your marks for each course.
-   5. Click on **Calculate** to get your CGPA!
+   5. Click on **Calculate** to get your GPA!
 
 ---
 
 ## ✅ Grading System
 
-The app uses the standard university grading system to convert marks into grade points and calculate the weighted CGPA accordingly.
+The app uses the standard university grading system to convert marks into grade points and calculate the weighted GPA accordingly.
 
 ---
 
